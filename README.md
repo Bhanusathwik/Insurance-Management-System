@@ -10,7 +10,7 @@ Insurance Management System
 
 3. Copy the IMS folder and paste it inside the root directory (usually located at `Windows/xampp/htdocs`).
 
-4.Open XAMPP and start the Apache server.
+4. Open XAMPP and start the Apache server.
 
 5. In your web browser, go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
 

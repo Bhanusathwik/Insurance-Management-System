@@ -6,7 +6,7 @@ Insurance Management System
 
 1. Install the XAMPP application
 
-2. Download the zip file and extract it
+2. Download the 'IMS' file
 
 3. Copy the IMS folder and paste it inside the root directory(inside Directory Windows/xampp/htdocs )
 

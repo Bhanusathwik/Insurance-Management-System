@@ -18,7 +18,7 @@ Insurance Management System
 
 7. Import the `imsdb.sql` file into the database `IMSDB` using PHPMyAdmin.
 
-8. ROpen your web browser and go to [http://localhost/ims](http://localhost/ims) for the FRONTEND.
+8. Open your web browser and go to [http://localhost/ims](http://localhost/ims) for the FRONTEND.
 
 8. For the USER panel, go to [http://localhost/ims/user/](http://localhost/ims/user/).
 

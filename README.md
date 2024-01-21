@@ -25,7 +25,7 @@ Insurance Management System
 9. For the ADMIN panel, visit [http://localhost/ims/admin](http://localhost/ims/admin).
 
 11. **Credentials for Admin Panel:**
-    - Username: Bhanu
+    - Username: SNUAdmin
     - Password: Mysql@123
 
 12. **Test User Panel:**
